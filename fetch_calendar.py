@@ -33,12 +33,18 @@ def scrape_forex_factory_calendar():
     rows = soup.find_all('tr', class_='calendar__row')
     
     current_date = ""
+    current_time = ""
 
     for row in rows:
-        # 日付セル（日付がまとまっている行と空の行があるため、前の日付を保持する）
+        # 日付セル（空欄の場合は直前の日付を保持）
         date_cell = row.find('td', class_='calendar__date')
         if date_cell and date_cell.text.strip():
             current_date = date_cell.text.strip()
+
+        # 時刻セル（空欄の場合は直前の時刻を保持、All DayやTentativeなどの表記もそのまま取得）
+        time_cell = row.find('td', class_='calendar__time')
+        if time_cell and time_cell.text.strip():
+            current_time = time_cell.text.strip()
 
         # 通貨（ペア関連）
         currency_cell = row.find('td', class_='calendar__currency')
@@ -54,7 +60,6 @@ def scrape_forex_factory_calendar():
         if impact_cell:
             impact_span = impact_cell.find('span')
             if impact_span:
-                # class名（icon--ff-impact-red, icon--ff-impact-ora など）から判定
                 classes = " ".join(impact_span.get('class', []))
                 if 'red' in classes:
                     impact_level = 'High'
@@ -69,6 +74,7 @@ def scrape_forex_factory_calendar():
         if currency and event_title:
             result["events"].append({
                 "date": current_date,
+                "time": current_time,
                 "currency": currency,
                 "event": event_title,
                 "impact": impact_level
