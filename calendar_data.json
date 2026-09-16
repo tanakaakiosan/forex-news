@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-16 16:18:01 JST",
+    "updated_at": "2026-09-16 21:15:10 JST",
     "source_timezone_note": "date/time fields are exactly as displayed on forexfactory.com at scrape time (site default: America/New York)",
     "events": [
         {
@@ -354,7 +354,7 @@
         },
         {
             "date": "Wed Sep 16",
-            "time": "Tentative",
+            "time": "5:35am",
             "currency": "EUR",
             "event": "German 30-y Bond Auction",
             "impact": "Low"
