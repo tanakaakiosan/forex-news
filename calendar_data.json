@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-17 15:15:24 JST",
+    "updated_at": "2026-09-17 21:14:58 JST",
     "source_timezone_note": "date/time fields are exactly as displayed on forexfactory.com at scrape time (site default: America/New York)",
     "events": [
         {
@@ -11,616 +11,616 @@
         },
         {
             "date": "Sun Sep 13",
-            "time": "6:30pm",
+            "time": "5:30pm",
             "currency": "NZD",
             "event": "BusinessNZ Services Index",
             "impact": "Low"
         },
         {
             "date": "Sun Sep 13",
-            "time": "6:45pm",
+            "time": "5:45pm",
             "currency": "NZD",
             "event": "Visitor Arrivals m/m",
             "impact": "Low"
         },
         {
             "date": "Sun Sep 13",
-            "time": "10:30pm",
+            "time": "9:30pm",
             "currency": "AUD",
             "event": "RBA Assist Gov Hunter Speaks",
             "impact": "Low"
         },
         {
-            "date": "Mon Sep 14",
-            "time": "12:30am",
+            "date": "Sun Sep 13",
+            "time": "11:30pm",
             "currency": "JPY",
             "event": "Revised Industrial Production m/m",
             "impact": "Low"
         },
         {
             "date": "Mon Sep 14",
-            "time": "2:30am",
+            "time": "1:30am",
             "currency": "CHF",
             "event": "PPI m/m",
             "impact": "Low"
         },
         {
             "date": "Mon Sep 14",
-            "time": "5:01am",
+            "time": "4:01am",
             "currency": "CNY",
             "event": "M2 Money Supply y/y",
             "impact": "Low"
         },
         {
             "date": "Mon Sep 14",
-            "time": "5:01am",
+            "time": "4:01am",
             "currency": "CNY",
             "event": "New Loans",
             "impact": "Low"
         },
         {
             "date": "Mon Sep 14",
-            "time": "8:30am",
+            "time": "7:30am",
             "currency": "CAD",
             "event": "CPI m/m",
             "impact": "High"
         },
         {
             "date": "Mon Sep 14",
-            "time": "8:30am",
+            "time": "7:30am",
             "currency": "CAD",
             "event": "Median CPI y/y",
             "impact": "High"
         },
         {
             "date": "Mon Sep 14",
-            "time": "8:30am",
+            "time": "7:30am",
             "currency": "CAD",
             "event": "Trimmed CPI y/y",
             "impact": "High"
         },
         {
             "date": "Mon Sep 14",
-            "time": "8:30am",
+            "time": "7:30am",
             "currency": "CAD",
             "event": "Common CPI y/y",
             "impact": "Medium"
         },
         {
             "date": "Mon Sep 14",
-            "time": "8:30am",
+            "time": "7:30am",
             "currency": "CAD",
             "event": "Core CPI m/m",
             "impact": "Low"
         },
         {
             "date": "Mon Sep 14",
-            "time": "8:30am",
+            "time": "7:30am",
             "currency": "CAD",
             "event": "Manufacturing Sales m/m",
             "impact": "Low"
         },
         {
             "date": "Mon Sep 14",
-            "time": "9:30am",
+            "time": "8:30am",
             "currency": "GBP",
             "event": "CB Leading Index m/m",
             "impact": "Low"
         },
         {
             "date": "Mon Sep 14",
-            "time": "11:15am",
+            "time": "10:15am",
             "currency": "EUR",
             "event": "ECB President Lagarde Speaks",
             "impact": "Medium"
         },
         {
             "date": "Mon Sep 14",
-            "time": "9:30pm",
+            "time": "8:30pm",
             "currency": "CNY",
             "event": "New Home Prices m/m",
             "impact": "Low"
         },
         {
             "date": "Mon Sep 14",
-            "time": "10:00pm",
+            "time": "9:00pm",
             "currency": "CNY",
             "event": "Fixed Asset Investment ytd/y",
             "impact": "Low"
         },
         {
             "date": "Mon Sep 14",
-            "time": "10:00pm",
+            "time": "9:00pm",
             "currency": "CNY",
             "event": "Industrial Production y/y",
             "impact": "Low"
         },
         {
             "date": "Mon Sep 14",
-            "time": "10:00pm",
+            "time": "9:00pm",
             "currency": "CNY",
             "event": "NBS Press Conference",
             "impact": "Low"
         },
         {
             "date": "Mon Sep 14",
-            "time": "10:00pm",
+            "time": "9:00pm",
             "currency": "CNY",
             "event": "Retail Sales y/y",
             "impact": "Low"
         },
         {
             "date": "Mon Sep 14",
-            "time": "10:00pm",
+            "time": "9:00pm",
             "currency": "CNY",
             "event": "Unemployment Rate",
             "impact": "Low"
         },
         {
-            "date": "Tue Sep 15",
-            "time": "12:30am",
+            "date": "Mon Sep 14",
+            "time": "11:30pm",
             "currency": "JPY",
             "event": "Tertiary Industry Activity m/m",
             "impact": "Low"
         },
         {
             "date": "Tue Sep 15",
-            "time": "2:00am",
+            "time": "1:00am",
             "currency": "EUR",
             "event": "German WPI m/m",
             "impact": "Low"
         },
         {
             "date": "Tue Sep 15",
-            "time": "2:00am",
+            "time": "1:00am",
             "currency": "GBP",
             "event": "Claimant Count Change",
             "impact": "High"
         },
         {
             "date": "Tue Sep 15",
-            "time": "2:00am",
+            "time": "1:00am",
             "currency": "GBP",
             "event": "Average Earnings Index 3m/y",
             "impact": "Medium"
         },
         {
             "date": "Tue Sep 15",
-            "time": "2:00am",
+            "time": "1:00am",
             "currency": "GBP",
             "event": "Unemployment Rate",
             "impact": "Low"
         },
         {
             "date": "Tue Sep 15",
-            "time": "2:45am",
+            "time": "1:45am",
             "currency": "EUR",
             "event": "French Final CPI m/m",
             "impact": "Low"
         },
         {
             "date": "Tue Sep 15",
-            "time": "4:00am",
+            "time": "3:00am",
             "currency": "EUR",
             "event": "Italian Trade Balance",
             "impact": "Low"
         },
         {
             "date": "Tue Sep 15",
-            "time": "5:00am",
+            "time": "4:00am",
             "currency": "EUR",
             "event": "Trade Balance",
             "impact": "Low"
         },
         {
             "date": "Tue Sep 15",
-            "time": "5:00am",
+            "time": "4:00am",
             "currency": "EUR",
             "event": "German ZEW Economic Sentiment",
             "impact": "Low"
         },
         {
             "date": "Tue Sep 15",
-            "time": "5:00am",
+            "time": "4:00am",
             "currency": "EUR",
             "event": "ZEW Economic Sentiment",
             "impact": "Low"
         },
         {
             "date": "Tue Sep 15",
-            "time": "8:15am",
+            "time": "7:15am",
             "currency": "USD",
             "event": "ADP Weekly Employment Change",
             "impact": "Low"
         },
         {
             "date": "Tue Sep 15",
-            "time": "8:30am",
+            "time": "7:30am",
             "currency": "CAD",
             "event": "Wholesale Sales m/m",
             "impact": "Low"
         },
         {
             "date": "Tue Sep 15",
-            "time": "8:30am",
+            "time": "7:30am",
             "currency": "USD",
             "event": "Empire State Manufacturing Index",
             "impact": "Low"
         },
         {
             "date": "Tue Sep 15",
-            "time": "10:00am",
+            "time": "9:00am",
             "currency": "USD",
             "event": "Treasury Sec Bessent Speaks",
             "impact": "Medium"
         },
         {
             "date": "Tue Sep 15",
-            "time": "11:39am",
+            "time": "10:39am",
             "currency": "NZD",
             "event": "GDT Price Index",
             "impact": "Low"
         },
         {
             "date": "Tue Sep 15",
-            "time": "4:30pm",
+            "time": "3:30pm",
             "currency": "USD",
             "event": "API Weekly Statistical Bulletin",
             "impact": "Low"
         },
         {
             "date": "Tue Sep 15",
-            "time": "5:04pm",
+            "time": "4:04pm",
             "currency": "NZD",
             "event": "Westpac Consumer Sentiment",
             "impact": "Low"
         },
         {
             "date": "Tue Sep 15",
-            "time": "6:45pm",
+            "time": "5:45pm",
             "currency": "NZD",
             "event": "Current Account",
             "impact": "Low"
         },
         {
             "date": "Tue Sep 15",
-            "time": "7:50pm",
+            "time": "6:50pm",
             "currency": "JPY",
             "event": "Core Machinery Orders m/m",
             "impact": "Low"
         },
         {
             "date": "Tue Sep 15",
-            "time": "7:50pm",
+            "time": "6:50pm",
             "currency": "JPY",
             "event": "Trade Balance",
             "impact": "Low"
         },
         {
             "date": "Tue Sep 15",
-            "time": "8:30pm",
+            "time": "7:30pm",
             "currency": "AUD",
             "event": "MI Leading Index m/m",
             "impact": "Low"
         },
         {
             "date": "Wed Sep 16",
-            "time": "2:00am",
+            "time": "1:00am",
             "currency": "GBP",
             "event": "CPI y/y",
             "impact": "High"
         },
         {
             "date": "Wed Sep 16",
-            "time": "2:00am",
+            "time": "1:00am",
             "currency": "GBP",
             "event": "Core CPI y/y",
             "impact": "Low"
         },
         {
             "date": "Wed Sep 16",
-            "time": "2:00am",
+            "time": "1:00am",
             "currency": "GBP",
             "event": "PPI Input m/m",
             "impact": "Low"
         },
         {
             "date": "Wed Sep 16",
-            "time": "2:00am",
+            "time": "1:00am",
             "currency": "GBP",
             "event": "PPI Output m/m",
             "impact": "Low"
         },
         {
             "date": "Wed Sep 16",
-            "time": "2:00am",
+            "time": "1:00am",
             "currency": "GBP",
             "event": "RPI y/y",
             "impact": "Low"
         },
         {
             "date": "Wed Sep 16",
-            "time": "4:30am",
+            "time": "3:30am",
             "currency": "GBP",
             "event": "HPI y/y",
             "impact": "Low"
         },
         {
             "date": "Wed Sep 16",
-            "time": "5:00am",
+            "time": "4:00am",
             "currency": "EUR",
             "event": "Industrial Production m/m",
             "impact": "Low"
         },
         {
             "date": "Wed Sep 16",
-            "time": "5:35am",
+            "time": "4:35am",
             "currency": "EUR",
             "event": "German 30-y Bond Auction",
             "impact": "Low"
         },
         {
             "date": "Wed Sep 16",
-            "time": "8:15am",
+            "time": "7:15am",
             "currency": "CAD",
             "event": "Housing Starts",
             "impact": "Low"
         },
         {
             "date": "Wed Sep 16",
-            "time": "8:30am",
+            "time": "7:30am",
             "currency": "CAD",
             "event": "Building Permits m/m",
             "impact": "Low"
         },
         {
             "date": "Wed Sep 16",
-            "time": "8:30am",
+            "time": "7:30am",
             "currency": "USD",
             "event": "Core Retail Sales m/m",
             "impact": "Medium"
         },
         {
             "date": "Wed Sep 16",
-            "time": "8:30am",
+            "time": "7:30am",
             "currency": "USD",
             "event": "Retail Sales m/m",
             "impact": "Medium"
         },
         {
             "date": "Wed Sep 16",
-            "time": "8:30am",
+            "time": "7:30am",
             "currency": "USD",
             "event": "Import Prices m/m",
             "impact": "Low"
         },
         {
             "date": "Wed Sep 16",
-            "time": "10:00am",
+            "time": "9:00am",
             "currency": "USD",
             "event": "Business Inventories m/m",
             "impact": "Low"
         },
         {
             "date": "Wed Sep 16",
-            "time": "10:00am",
+            "time": "9:00am",
             "currency": "USD",
             "event": "NAHB Housing Market Index",
             "impact": "Low"
         },
         {
             "date": "Wed Sep 16",
-            "time": "10:30am",
+            "time": "9:30am",
             "currency": "USD",
             "event": "Crude Oil Inventories",
             "impact": "Low"
         },
         {
             "date": "Wed Sep 16",
-            "time": "12:00pm",
+            "time": "11:00am",
             "currency": "EUR",
             "event": "German Buba President Nagel Speaks",
             "impact": "Low"
         },
         {
             "date": "Wed Sep 16",
-            "time": "1:30pm",
+            "time": "12:30pm",
             "currency": "CAD",
             "event": "BOC Summary of Deliberations",
             "impact": "Low"
         },
         {
             "date": "Wed Sep 16",
-            "time": "2:00pm",
+            "time": "1:00pm",
             "currency": "USD",
             "event": "Federal Funds Rate",
             "impact": "High"
         },
         {
             "date": "Wed Sep 16",
-            "time": "2:00pm",
+            "time": "1:00pm",
             "currency": "USD",
             "event": "FOMC Economic Projections",
             "impact": "High"
         },
         {
             "date": "Wed Sep 16",
-            "time": "2:00pm",
+            "time": "1:00pm",
             "currency": "USD",
             "event": "FOMC Statement",
             "impact": "High"
         },
         {
             "date": "Wed Sep 16",
-            "time": "2:30pm",
+            "time": "1:30pm",
             "currency": "USD",
             "event": "FOMC Press Conference",
             "impact": "High"
         },
         {
             "date": "Wed Sep 16",
-            "time": "4:00pm",
+            "time": "3:00pm",
             "currency": "USD",
             "event": "TIC Long-Term Purchases",
             "impact": "Low"
         },
         {
             "date": "Wed Sep 16",
-            "time": "6:45pm",
+            "time": "5:45pm",
             "currency": "NZD",
             "event": "GDP q/q",
             "impact": "High"
         },
         {
             "date": "Thu Sep 17",
-            "time": "3:00am",
+            "time": "2:00am",
             "currency": "CHF",
             "event": "SECO Economic Forecasts",
             "impact": "Low"
         },
         {
             "date": "Thu Sep 17",
-            "time": "5:00am",
-            "currency": "EUR",
-            "event": "Final Core CPI y/y",
-            "impact": "Low"
-        },
-        {
-            "date": "Thu Sep 17",
-            "time": "5:00am",
-            "currency": "EUR",
-            "event": "Final CPI y/y",
-            "impact": "Low"
-        },
-        {
-            "date": "Thu Sep 17",
-            "time": "Tentative",
+            "time": "3:37am",
             "currency": "EUR",
             "event": "Spanish 10-y Bond Auction",
             "impact": "Low"
         },
         {
             "date": "Thu Sep 17",
-            "time": "7:00am",
+            "time": "4:00am",
+            "currency": "EUR",
+            "event": "Final Core CPI y/y",
+            "impact": "Low"
+        },
+        {
+            "date": "Thu Sep 17",
+            "time": "4:00am",
+            "currency": "EUR",
+            "event": "Final CPI y/y",
+            "impact": "Low"
+        },
+        {
+            "date": "Thu Sep 17",
+            "time": "6:00am",
             "currency": "GBP",
             "event": "Monetary Policy Summary",
             "impact": "High"
         },
         {
             "date": "Thu Sep 17",
-            "time": "7:00am",
+            "time": "6:00am",
             "currency": "GBP",
             "event": "MPC Official Bank Rate Votes",
             "impact": "High"
         },
         {
             "date": "Thu Sep 17",
-            "time": "7:00am",
+            "time": "6:00am",
             "currency": "GBP",
             "event": "Official Bank Rate",
             "impact": "High"
         },
         {
             "date": "Thu Sep 17",
-            "time": "8:30am",
+            "time": "7:30am",
             "currency": "CAD",
             "event": "Foreign Securities Purchases",
             "impact": "Low"
         },
         {
             "date": "Thu Sep 17",
-            "time": "8:30am",
+            "time": "7:30am",
             "currency": "CAD",
             "event": "IPPI m/m",
             "impact": "Low"
         },
         {
             "date": "Thu Sep 17",
-            "time": "8:30am",
+            "time": "7:30am",
             "currency": "CAD",
             "event": "RMPI m/m",
             "impact": "Low"
         },
         {
             "date": "Thu Sep 17",
-            "time": "8:30am",
+            "time": "7:30am",
             "currency": "USD",
             "event": "Philly Fed Manufacturing Index",
             "impact": "Medium"
         },
         {
             "date": "Thu Sep 17",
-            "time": "8:30am",
+            "time": "7:30am",
             "currency": "USD",
             "event": "Unemployment Claims",
             "impact": "Medium"
         },
         {
             "date": "Thu Sep 17",
-            "time": "8:30am",
+            "time": "7:30am",
             "currency": "USD",
             "event": "Building Permits",
             "impact": "Low"
         },
         {
             "date": "Thu Sep 17",
-            "time": "8:30am",
+            "time": "7:30am",
             "currency": "USD",
             "event": "Housing Starts",
             "impact": "Low"
         },
         {
             "date": "Thu Sep 17",
-            "time": "10:00am",
+            "time": "9:00am",
             "currency": "USD",
             "event": "Pending Home Sales m/m",
             "impact": "Low"
         },
         {
             "date": "Thu Sep 17",
-            "time": "10:30am",
+            "time": "9:30am",
             "currency": "AUD",
             "event": "CB Leading Index m/m",
             "impact": "Low"
         },
         {
             "date": "Thu Sep 17",
-            "time": "10:30am",
+            "time": "9:30am",
             "currency": "USD",
             "event": "Natural Gas Storage",
             "impact": "Low"
         },
         {
             "date": "Thu Sep 17",
-            "time": "6:45pm",
+            "time": "5:45pm",
             "currency": "NZD",
             "event": "FPI m/m",
             "impact": "Low"
         },
         {
             "date": "Thu Sep 17",
-            "time": "6:45pm",
+            "time": "5:45pm",
             "currency": "NZD",
             "event": "Trade Balance",
             "impact": "Low"
         },
         {
             "date": "Thu Sep 17",
-            "time": "7:01pm",
+            "time": "6:01pm",
             "currency": "GBP",
             "event": "GfK Consumer Confidence",
             "impact": "Low"
         },
         {
             "date": "Thu Sep 17",
-            "time": "7:30pm",
+            "time": "6:30pm",
             "currency": "AUD",
             "event": "RBA Gov Bullock Speaks",
             "impact": "Medium"
         },
         {
             "date": "Thu Sep 17",
-            "time": "7:30pm",
+            "time": "6:30pm",
             "currency": "JPY",
             "event": "National Core CPI y/y",
             "impact": "Low"
@@ -648,14 +648,14 @@
         },
         {
             "date": "Fri Sep 18",
-            "time": "2:00am",
+            "time": "1:00am",
             "currency": "EUR",
             "event": "German PPI m/m",
             "impact": "Low"
         },
         {
             "date": "Fri Sep 18",
-            "time": "2:00am",
+            "time": "1:00am",
             "currency": "GBP",
             "event": "Retail Sales m/m",
             "impact": "Medium"
@@ -669,7 +669,7 @@
         },
         {
             "date": "Fri Sep 18",
-            "time": "4:00am",
+            "time": "3:00am",
             "currency": "EUR",
             "event": "Current Account",
             "impact": "Low"
@@ -690,42 +690,42 @@
         },
         {
             "date": "Fri Sep 18",
-            "time": "6:30am",
+            "time": "5:30am",
             "currency": "EUR",
             "event": "ECB President Lagarde Speaks",
             "impact": "Medium"
         },
         {
             "date": "Fri Sep 18",
-            "time": "9:15am",
+            "time": "8:15am",
             "currency": "USD",
             "event": "Capacity Utilization Rate",
             "impact": "Low"
         },
         {
             "date": "Fri Sep 18",
-            "time": "9:15am",
+            "time": "8:15am",
             "currency": "USD",
             "event": "Industrial Production m/m",
             "impact": "Low"
         },
         {
             "date": "Fri Sep 18",
-            "time": "9:30am",
+            "time": "8:30am",
             "currency": "USD",
             "event": "FOMC Member Bowman Speaks",
             "impact": "Low"
         },
         {
             "date": "Fri Sep 18",
-            "time": "10:00am",
+            "time": "9:00am",
             "currency": "USD",
             "event": "CB Leading Index m/m",
             "impact": "Low"
         },
         {
             "date": "Fri Sep 18",
-            "time": "11:45am",
+            "time": "10:45am",
             "currency": "USD",
             "event": "FOMC Member Schmid Speaks",
             "impact": "Low"
