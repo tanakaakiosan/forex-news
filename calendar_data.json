@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-18 03:14:09 JST",
+    "updated_at": "2026-09-18 09:15:37 JST",
     "source_timezone_note": "date/time fields are exactly as displayed on forexfactory.com at scrape time (site default: America/New York)",
     "events": [
         {
@@ -602,13 +602,6 @@
             "time": "5:45pm",
             "currency": "NZD",
             "event": "Trade Balance",
-            "impact": "Low"
-        },
-        {
-            "date": "Thu Sep 17",
-            "time": "6:01pm",
-            "currency": "GBP",
-            "event": "GfK Consumer Confidence",
             "impact": "Low"
         },
         {
