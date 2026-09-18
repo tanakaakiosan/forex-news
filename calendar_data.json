@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-18 09:15:37 JST",
+    "updated_at": "2026-09-18 15:14:40 JST",
     "source_timezone_note": "date/time fields are exactly as displayed on forexfactory.com at scrape time (site default: America/New York)",
     "events": [
         {
@@ -538,6 +538,13 @@
             "date": "Thu Sep 17",
             "time": "7:30am",
             "currency": "CAD",
+            "event": "NHPI m/m",
+            "impact": "Low"
+        },
+        {
+            "date": "Thu Sep 17",
+            "time": "7:30am",
+            "currency": "CAD",
             "event": "RMPI m/m",
             "impact": "Low"
         },
@@ -620,23 +627,16 @@
         },
         {
             "date": "Thu Sep 17",
-            "time": "Tentative",
+            "time": "9:54pm",
             "currency": "JPY",
             "event": "BOJ Policy Rate",
             "impact": "High"
         },
         {
             "date": "Thu Sep 17",
-            "time": "Tentative",
+            "time": "9:54pm",
             "currency": "JPY",
             "event": "Monetary Policy Statement",
-            "impact": "High"
-        },
-        {
-            "date": "Fri Sep 18",
-            "time": "Tentative",
-            "currency": "JPY",
-            "event": "BOJ Press Conference",
             "impact": "High"
         },
         {
@@ -659,6 +659,13 @@
             "currency": "CNY",
             "event": "Foreign Direct Investment ytd/y",
             "impact": "Low"
+        },
+        {
+            "date": "Fri Sep 18",
+            "time": "Tentative",
+            "currency": "JPY",
+            "event": "BOJ Press Conference",
+            "impact": "High"
         },
         {
             "date": "Fri Sep 18",
