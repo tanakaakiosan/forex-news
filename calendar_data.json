@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-21 12:39:52 JST",
+    "updated_at": "2026-09-21 21:09:40 JST",
     "source_timezone_note": "date/time fields are exactly as displayed on forexfactory.com at scrape time (site default: America/New York)",
     "events": [
         {
@@ -449,6 +449,13 @@
             "currency": "CNY",
             "event": "Bank Holiday",
             "impact": "Non-Economic"
+        },
+        {
+            "date": "Fri Sep 25",
+            "time": "12:00am",
+            "currency": "JPY",
+            "event": "BOJ Core CPI y/y",
+            "impact": "Low"
         },
         {
             "date": "Fri Sep 25",
