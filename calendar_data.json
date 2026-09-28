@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-28 13:01:58 JST",
+    "updated_at": "2026-09-28 22:05:37 JST",
     "source_timezone_note": "date/time fields are exactly as displayed on forexfactory.com at scrape time (site default: America/New York)",
     "events": [
         {
@@ -523,15 +523,15 @@
         {
             "date": "Wed Sep 30",
             "time": "7:30am",
-            "currency": "USD",
-            "event": "Crude Oil Inventories",
+            "currency": "CHF",
+            "event": "Gov Board Member Tschudin Speaks",
             "impact": "Low"
         },
         {
             "date": "Wed Sep 30",
-            "time": "8:00am",
-            "currency": "CHF",
-            "event": "Gov Board Member Tschudin Speaks",
+            "time": "7:30am",
+            "currency": "USD",
+            "event": "Crude Oil Inventories",
             "impact": "Low"
         },
         {
