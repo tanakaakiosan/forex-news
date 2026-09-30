@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-09-30 06:57:26 JST",
+    "updated_at": "2026-09-30 13:18:58 JST",
     "source_timezone_note": "date/time fields are exactly as displayed on forexfactory.com at scrape time (site default: America/New York)",
     "events": [
         {
@@ -547,6 +547,13 @@
             "currency": "USD",
             "event": "FOMC Member Cook Speaks",
             "impact": "Low"
+        },
+        {
+            "date": "Wed Sep 30",
+            "time": "12:30pm",
+            "currency": "USD",
+            "event": "President Trump Speaks",
+            "impact": "Medium"
         },
         {
             "date": "Wed Sep 30",
