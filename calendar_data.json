@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-02 07:24:17 JST",
+    "updated_at": "2026-10-02 13:23:22 JST",
     "source_timezone_note": "date/time fields are exactly as displayed on forexfactory.com at scrape time (site default: America/New York)",
     "events": [
         {
@@ -886,17 +886,17 @@
         },
         {
             "date": "Thu Oct 1",
-            "time": "6:45pm",
-            "currency": "USD",
-            "event": "FOMC Member Logan Speaks",
-            "impact": "Low"
-        },
-        {
-            "date": "Thu Oct 1",
             "time": "All Day",
             "currency": "CNY",
             "event": "Bank Holiday",
             "impact": "Non-Economic"
+        },
+        {
+            "date": "Thu Oct 1",
+            "time": "7:20pm",
+            "currency": "USD",
+            "event": "FOMC Member Logan Speaks",
+            "impact": "Low"
         },
         {
             "date": "Thu Oct 1",
