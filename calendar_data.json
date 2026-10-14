@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-14 12:48:29 JST",
+    "updated_at": "2026-10-14 20:20:05 JST",
     "source_timezone_note": "date/time fields are exactly as displayed on forexfactory.com at scrape time (site default: America/New York)",
     "events": [
         {
@@ -249,20 +249,6 @@
         },
         {
             "date": "Wed Oct 14",
-            "time": "Tentative",
-            "currency": "CNY",
-            "event": "M2 Money Supply y/y",
-            "impact": "Low"
-        },
-        {
-            "date": "Wed Oct 14",
-            "time": "Tentative",
-            "currency": "CNY",
-            "event": "New Loans",
-            "impact": "Low"
-        },
-        {
-            "date": "Wed Oct 14",
             "time": "4:30am",
             "currency": "EUR",
             "event": "ECB President Lagarde Speaks",
@@ -270,7 +256,21 @@
         },
         {
             "date": "Wed Oct 14",
-            "time": "Tentative",
+            "time": "5:00am",
+            "currency": "CNY",
+            "event": "M2 Money Supply y/y",
+            "impact": "Low"
+        },
+        {
+            "date": "Wed Oct 14",
+            "time": "5:01am",
+            "currency": "CNY",
+            "event": "New Loans",
+            "impact": "Low"
+        },
+        {
+            "date": "Wed Oct 14",
+            "time": "5:38am",
             "currency": "EUR",
             "event": "German 30-y Bond Auction",
             "impact": "Low"
