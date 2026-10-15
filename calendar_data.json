@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-15 12:30:04 JST",
+    "updated_at": "2026-10-15 19:57:43 JST",
     "source_timezone_note": "date/time fields are exactly as displayed on forexfactory.com at scrape time (site default: America/New York)",
     "events": [
         {
@@ -403,7 +403,7 @@
         },
         {
             "date": "Thu Oct 15",
-            "time": "Tentative",
+            "time": "12:30am",
             "currency": "AUD",
             "event": "RBA Annual Report",
             "impact": "Low"
