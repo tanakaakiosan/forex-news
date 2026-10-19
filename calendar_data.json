@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-19 12:32:24 JST",
+    "updated_at": "2026-10-19 21:19:48 JST",
     "source_timezone_note": "date/time fields are exactly as displayed on forexfactory.com at scrape time (site default: America/New York)",
     "events": [
         {
@@ -91,13 +91,6 @@
             "time": "11:30pm",
             "currency": "JPY",
             "event": "Tertiary Industry Activity m/m",
-            "impact": "Low"
-        },
-        {
-            "date": "Mon Oct 19",
-            "time": "Tentative",
-            "currency": "CNY",
-            "event": "Foreign Direct Investment ytd/y",
             "impact": "Low"
         },
         {
@@ -210,6 +203,13 @@
             "time": "4:00am",
             "currency": "EUR",
             "event": "ZEW Economic Sentiment",
+            "impact": "Low"
+        },
+        {
+            "date": "Tue Oct 20",
+            "time": "Tentative",
+            "currency": "CNY",
+            "event": "Foreign Direct Investment ytd/y",
             "impact": "Low"
         },
         {
