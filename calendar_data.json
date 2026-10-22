@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-22 12:34:07 JST",
+    "updated_at": "2026-10-22 20:16:18 JST",
     "source_timezone_note": "date/time fields are exactly as displayed on forexfactory.com at scrape time (site default: America/New York)",
     "events": [
         {
@@ -375,7 +375,7 @@
         },
         {
             "date": "Thu Oct 22",
-            "time": "Tentative",
+            "time": "2:41am",
             "currency": "CNY",
             "event": "Foreign Direct Investment ytd/y",
             "impact": "Low"
