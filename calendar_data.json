@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-10-30 13:40:36 JST",
+    "updated_at": "2026-10-30 21:15:10 JST",
     "source_timezone_note": "date/time fields are exactly as displayed on forexfactory.com at scrape time (site default: America/New York)",
     "events": [
         {
@@ -515,13 +515,6 @@
         },
         {
             "date": "Fri Oct 30",
-            "time": "Tentative",
-            "currency": "JPY",
-            "event": "BOJ Press Conference",
-            "impact": "High"
-        },
-        {
-            "date": "Fri Oct 30",
             "time": "2:30am",
             "currency": "EUR",
             "event": "French Consumer Spending m/m",
@@ -533,6 +526,13 @@
             "currency": "EUR",
             "event": "French Flash GDP q/q",
             "impact": "Low"
+        },
+        {
+            "date": "Fri Oct 30",
+            "time": "2:30am",
+            "currency": "JPY",
+            "event": "BOJ Press Conference",
+            "impact": "High"
         },
         {
             "date": "Fri Oct 30",
