@@ -1,692 +1,818 @@
 {
-    "updated_at": "2026-11-01 13:43:25 JST",
+    "updated_at": "2026-11-01 21:46:40 JST",
     "source_timezone_note": "date/time fields are exactly as displayed on forexfactory.com at scrape time (site default: America/New York)",
     "events": [
         {
-            "date": "Sun Oct 25",
-            "time": "All Day",
+            "date": "Sun Nov 1",
+            "time": "12:00am",
+            "currency": "CAD",
+            "event": "Daylight Saving Time Shift",
+            "impact": "Non-Economic"
+        },
+        {
+            "date": "Sun Nov 1",
+            "time": "12:00am",
+            "currency": "USD",
+            "event": "Daylight Saving Time Shift",
+            "impact": "Non-Economic"
+        },
+        {
+            "date": "Sun Nov 1",
+            "time": "5:00pm",
+            "currency": "AUD",
+            "event": "MI Inflation Gauge m/m",
+            "impact": "Low"
+        },
+        {
+            "date": "Sun Nov 1",
+            "time": "5:30pm",
+            "currency": "AUD",
+            "event": "Building Approvals m/m",
+            "impact": "Low"
+        },
+        {
+            "date": "Sun Nov 1",
+            "time": "5:30pm",
+            "currency": "JPY",
+            "event": "Final Manufacturing PMI",
+            "impact": "Low"
+        },
+        {
+            "date": "Sun Nov 1",
+            "time": "Tentative",
+            "currency": "AUD",
+            "event": "ANZ Job Advertisements m/m",
+            "impact": "Low"
+        },
+        {
+            "date": "Sun Nov 1",
+            "time": "6:45pm",
+            "currency": "CNY",
+            "event": "RatingDog Manufacturing PMI",
+            "impact": "Low"
+        },
+        {
+            "date": "Sun Nov 1",
+            "time": "10:30pm",
+            "currency": "AUD",
+            "event": "Commodity Prices y/y",
+            "impact": "Low"
+        },
+        {
+            "date": "Mon Nov 2",
+            "time": "12:00am",
+            "currency": "EUR",
+            "event": "German Retail Sales m/m",
+            "impact": "Low"
+        },
+        {
+            "date": "Mon Nov 2",
+            "time": "12:30am",
+            "currency": "CHF",
+            "event": "Retail Sales y/y",
+            "impact": "Low"
+        },
+        {
+            "date": "Mon Nov 2",
+            "time": "1:15am",
+            "currency": "EUR",
+            "event": "Spanish Manufacturing PMI",
+            "impact": "Low"
+        },
+        {
+            "date": "Mon Nov 2",
+            "time": "1:30am",
+            "currency": "CHF",
+            "event": "Manufacturing PMI",
+            "impact": "Low"
+        },
+        {
+            "date": "Mon Nov 2",
+            "time": "1:45am",
+            "currency": "EUR",
+            "event": "Italian Manufacturing PMI",
+            "impact": "Low"
+        },
+        {
+            "date": "Mon Nov 2",
+            "time": "1:50am",
+            "currency": "EUR",
+            "event": "French Final Manufacturing PMI",
+            "impact": "Low"
+        },
+        {
+            "date": "Mon Nov 2",
+            "time": "1:55am",
+            "currency": "EUR",
+            "event": "German Final Manufacturing PMI",
+            "impact": "Low"
+        },
+        {
+            "date": "Mon Nov 2",
+            "time": "2:00am",
+            "currency": "EUR",
+            "event": "Final Manufacturing PMI",
+            "impact": "Low"
+        },
+        {
+            "date": "Mon Nov 2",
+            "time": "2:30am",
+            "currency": "GBP",
+            "event": "Final Manufacturing PMI",
+            "impact": "Low"
+        },
+        {
+            "date": "Mon Nov 2",
+            "time": "5:00am",
+            "currency": "EUR",
+            "event": "German Buba President Nagel Speaks",
+            "impact": "Low"
+        },
+        {
+            "date": "Mon Nov 2",
+            "time": "7:30am",
+            "currency": "CAD",
+            "event": "Manufacturing PMI",
+            "impact": "Low"
+        },
+        {
+            "date": "Mon Nov 2",
+            "time": "7:45am",
+            "currency": "USD",
+            "event": "Final Manufacturing PMI",
+            "impact": "Low"
+        },
+        {
+            "date": "Mon Nov 2",
+            "time": "8:00am",
+            "currency": "USD",
+            "event": "ISM Manufacturing PMI",
+            "impact": "Medium"
+        },
+        {
+            "date": "Mon Nov 2",
+            "time": "8:00am",
+            "currency": "USD",
+            "event": "Construction Spending m/m",
+            "impact": "Low"
+        },
+        {
+            "date": "Mon Nov 2",
+            "time": "8:00am",
+            "currency": "USD",
+            "event": "ISM Manufacturing Prices",
+            "impact": "Low"
+        },
+        {
+            "date": "Mon Nov 2",
+            "time": "Tentative",
+            "currency": "USD",
+            "event": "Loan Officer Survey",
+            "impact": "Low"
+        },
+        {
+            "date": "Mon Nov 2",
+            "time": "2:45pm",
             "currency": "NZD",
+            "event": "Building Consents m/m",
+            "impact": "Low"
+        },
+        {
+            "date": "Mon Nov 2",
+            "time": "All Day",
+            "currency": "JPY",
             "event": "Bank Holiday",
             "impact": "Non-Economic"
         },
         {
-            "date": "Sun Oct 25",
-            "time": "4:10pm",
+            "date": "Mon Nov 2",
+            "time": "8:30pm",
             "currency": "AUD",
-            "event": "RBA Assist Gov Jones Speaks",
-            "impact": "Low"
+            "event": "Cash Rate",
+            "impact": "High"
         },
         {
-            "date": "Mon Oct 26",
-            "time": "4:00am",
-            "currency": "EUR",
-            "event": "German ifo Business Climate",
-            "impact": "Low"
+            "date": "Mon Nov 2",
+            "time": "8:30pm",
+            "currency": "AUD",
+            "event": "RBA Monetary Policy Statement",
+            "impact": "High"
         },
         {
-            "date": "Mon Oct 26",
-            "time": "6:00am",
-            "currency": "GBP",
-            "event": "CBI Realized Sales",
-            "impact": "Low"
+            "date": "Mon Nov 2",
+            "time": "8:30pm",
+            "currency": "AUD",
+            "event": "RBA Rate Statement",
+            "impact": "High"
         },
         {
-            "date": "Mon Oct 26",
-            "time": "6:50pm",
-            "currency": "JPY",
-            "event": "SPPI y/y",
-            "impact": "Low"
+            "date": "Mon Nov 2",
+            "time": "9:30pm",
+            "currency": "AUD",
+            "event": "RBA Press Conference",
+            "impact": "High"
         },
         {
-            "date": "Mon Oct 26",
-            "time": "7:01pm",
-            "currency": "GBP",
-            "event": "BRC Shop Price Index y/y",
-            "impact": "Low"
-        },
-        {
-            "date": "Tue Oct 27",
-            "time": "12:00am",
-            "currency": "JPY",
-            "event": "BOJ Core CPI y/y",
-            "impact": "Low"
-        },
-        {
-            "date": "Tue Oct 27",
-            "time": "3:00am",
-            "currency": "EUR",
-            "event": "Spanish Unemployment Rate",
-            "impact": "Low"
-        },
-        {
-            "date": "Tue Oct 27",
-            "time": "4:00am",
-            "currency": "EUR",
-            "event": "M3 Money Supply y/y",
-            "impact": "Low"
-        },
-        {
-            "date": "Tue Oct 27",
-            "time": "4:00am",
-            "currency": "EUR",
-            "event": "Private Loans y/y",
-            "impact": "Low"
-        },
-        {
-            "date": "Tue Oct 27",
-            "time": "7:15am",
-            "currency": "USD",
-            "event": "ADP Weekly Employment Change",
-            "impact": "Low"
-        },
-        {
-            "date": "Tue Oct 27",
-            "time": "7:30am",
-            "currency": "USD",
-            "event": "Core Durable Goods Orders m/m",
-            "impact": "Low"
-        },
-        {
-            "date": "Tue Oct 27",
-            "time": "7:30am",
-            "currency": "USD",
-            "event": "Durable Goods Orders m/m",
-            "impact": "Low"
-        },
-        {
-            "date": "Tue Oct 27",
-            "time": "8:00am",
-            "currency": "USD",
-            "event": "HPI m/m",
-            "impact": "Low"
-        },
-        {
-            "date": "Tue Oct 27",
-            "time": "8:00am",
-            "currency": "USD",
-            "event": "S&P/CS Composite-20 HPI y/y",
-            "impact": "Low"
-        },
-        {
-            "date": "Tue Oct 27",
-            "time": "9:00am",
-            "currency": "USD",
-            "event": "CB Consumer Confidence",
+            "date": "Tue Nov 3",
+            "time": "12:30am",
+            "currency": "CHF",
+            "event": "CPI m/m",
             "impact": "Medium"
         },
         {
-            "date": "Tue Oct 27",
-            "time": "9:00am",
-            "currency": "USD",
-            "event": "New Home Sales",
+            "date": "Tue Nov 3",
+            "time": "12:45am",
+            "currency": "EUR",
+            "event": "French Gov Budget Balance",
             "impact": "Low"
         },
         {
-            "date": "Tue Oct 27",
-            "time": "9:00am",
-            "currency": "USD",
-            "event": "Richmond Manufacturing Index",
+            "date": "Tue Nov 3",
+            "time": "Tentative",
+            "currency": "GBP",
+            "event": "10-y Bond Auction",
             "impact": "Low"
         },
         {
-            "date": "Tue Oct 27",
-            "time": "3:30pm",
+            "date": "Tue Nov 3",
+            "time": "8:00am",
+            "currency": "USD",
+            "event": "JOLTS Job Openings",
+            "impact": "Medium"
+        },
+        {
+            "date": "Tue Nov 3",
+            "time": "8:00am",
+            "currency": "USD",
+            "event": "Factory Orders m/m",
+            "impact": "Low"
+        },
+        {
+            "date": "Tue Nov 3",
+            "time": "Tentative",
+            "currency": "USD",
+            "event": "RCM/TIPP Economic Optimism",
+            "impact": "Low"
+        },
+        {
+            "date": "Tue Nov 3",
+            "time": "All Day",
+            "currency": "USD",
+            "event": "Omdia Total Vehicle Sales",
+            "impact": "Low"
+        },
+        {
+            "date": "Tue Nov 3",
+            "time": "All Day",
+            "currency": "USD",
+            "event": "Congressional Elections",
+            "impact": "High"
+        },
+        {
+            "date": "Tue Nov 3",
+            "time": "Tentative",
+            "currency": "NZD",
+            "event": "GDT Price Index",
+            "impact": "Low"
+        },
+        {
+            "date": "Tue Nov 3",
+            "time": "9:00am",
+            "currency": "CAD",
+            "event": "BOC Gov Macklem Speaks",
+            "impact": "Medium"
+        },
+        {
+            "date": "Tue Nov 3",
+            "time": "10:00am",
+            "currency": "EUR",
+            "event": "German Buba President Nagel Speaks",
+            "impact": "Low"
+        },
+        {
+            "date": "Tue Nov 3",
+            "time": "2:30pm",
             "currency": "USD",
             "event": "API Weekly Statistical Bulletin",
             "impact": "Low"
         },
         {
-            "date": "Tue Oct 27",
-            "time": "7:15pm",
-            "currency": "AUD",
-            "event": "RBA Gov Bullock Speaks",
-            "impact": "Medium"
-        },
-        {
-            "date": "Tue Oct 27",
-            "time": "7:30pm",
-            "currency": "AUD",
-            "event": "CPI m/m",
-            "impact": "High"
-        },
-        {
-            "date": "Tue Oct 27",
-            "time": "7:30pm",
-            "currency": "AUD",
-            "event": "CPI y/y",
-            "impact": "High"
-        },
-        {
-            "date": "Tue Oct 27",
-            "time": "7:30pm",
-            "currency": "AUD",
-            "event": "Trimmed Mean CPI m/m",
-            "impact": "High"
-        },
-        {
-            "date": "Tue Oct 27",
-            "time": "8:00pm",
+            "date": "Tue Nov 3",
+            "time": "2:45pm",
             "currency": "NZD",
-            "event": "Official Cash Rate",
+            "event": "Employment Change q/q",
             "impact": "High"
         },
         {
-            "date": "Tue Oct 27",
-            "time": "8:00pm",
+            "date": "Tue Nov 3",
+            "time": "2:45pm",
             "currency": "NZD",
-            "event": "RBNZ Rate Statement",
+            "event": "Unemployment Rate",
             "impact": "High"
         },
         {
-            "date": "Tue Oct 27",
-            "time": "9:00pm",
+            "date": "Tue Nov 3",
+            "time": "2:45pm",
             "currency": "NZD",
-            "event": "RBNZ Press Conference",
-            "impact": "High"
+            "event": "Labor Cost Index q/q",
+            "impact": "Low"
         },
         {
-            "date": "Wed Oct 28",
+            "date": "Tue Nov 3",
+            "time": "4:50pm",
+            "currency": "JPY",
+            "event": "Monetary Base y/y",
+            "impact": "Low"
+        },
+        {
+            "date": "Tue Nov 3",
+            "time": "5:00pm",
+            "currency": "NZD",
+            "event": "ANZ Commodity Prices m/m",
+            "impact": "Low"
+        },
+        {
+            "date": "Tue Nov 3",
+            "time": "5:30pm",
+            "currency": "AUD",
+            "event": "Household Spending m/m",
+            "impact": "Low"
+        },
+        {
+            "date": "Tue Nov 3",
+            "time": "6:45pm",
+            "currency": "CNY",
+            "event": "RatingDog Services PMI",
+            "impact": "Low"
+        },
+        {
+            "date": "Wed Nov 4",
+            "time": "1:00am",
+            "currency": "EUR",
+            "event": "Spanish Unemployment Change",
+            "impact": "Low"
+        },
+        {
+            "date": "Wed Nov 4",
+            "time": "1:15am",
+            "currency": "EUR",
+            "event": "Spanish Services PMI",
+            "impact": "Low"
+        },
+        {
+            "date": "Wed Nov 4",
+            "time": "1:45am",
+            "currency": "EUR",
+            "event": "Italian Services PMI",
+            "impact": "Low"
+        },
+        {
+            "date": "Wed Nov 4",
+            "time": "1:50am",
+            "currency": "EUR",
+            "event": "French Final Services PMI",
+            "impact": "Low"
+        },
+        {
+            "date": "Wed Nov 4",
+            "time": "1:55am",
+            "currency": "EUR",
+            "event": "German Final Services PMI",
+            "impact": "Low"
+        },
+        {
+            "date": "Wed Nov 4",
             "time": "2:00am",
             "currency": "EUR",
-            "event": "German GfK Consumer Climate",
+            "event": "Final Services PMI",
             "impact": "Low"
         },
         {
-            "date": "Wed Oct 28",
-            "time": "4:00am",
-            "currency": "CHF",
-            "event": "UBS Economic Expectations",
+            "date": "Wed Nov 4",
+            "time": "2:30am",
+            "currency": "GBP",
+            "event": "Final Services PMI",
             "impact": "Low"
         },
         {
-            "date": "Wed Oct 28",
-            "time": "5:32am",
+            "date": "Wed Nov 4",
+            "time": "3:00am",
             "currency": "EUR",
-            "event": "German 10-y Bond Auction",
-            "impact": "Low"
-        },
-        {
-            "date": "Wed Oct 28",
-            "time": "7:30am",
-            "currency": "GBP",
-            "event": "Annual Budget Release",
-            "impact": "High"
-        },
-        {
-            "date": "Wed Oct 28",
-            "time": "7:30am",
-            "currency": "GBP",
-            "event": "Autumn Forecast Statement",
+            "event": "Core CPI Flash Estimate y/y",
             "impact": "Medium"
         },
         {
-            "date": "Wed Oct 28",
-            "time": "7:30am",
+            "date": "Wed Nov 4",
+            "time": "3:00am",
+            "currency": "EUR",
+            "event": "CPI Flash Estimate y/y",
+            "impact": "Medium"
+        },
+        {
+            "date": "Wed Nov 4",
+            "time": "6:15am",
             "currency": "USD",
-            "event": "Goods Trade Balance",
+            "event": "ADP Non-Farm Employment Change",
             "impact": "Low"
         },
         {
-            "date": "Wed Oct 28",
-            "time": "7:30am",
-            "currency": "USD",
-            "event": "Prelim Wholesale Inventories m/m",
+            "date": "Wed Nov 4",
+            "time": "6:30am",
+            "currency": "CAD",
+            "event": "Trade Balance",
             "impact": "Low"
         },
         {
-            "date": "Wed Oct 28",
+            "date": "Wed Nov 4",
+            "time": "6:30am",
+            "currency": "USD",
+            "event": "Trade Balance",
+            "impact": "Low"
+        },
+        {
+            "date": "Wed Nov 4",
+            "time": "7:45am",
+            "currency": "USD",
+            "event": "Final Services PMI",
+            "impact": "Low"
+        },
+        {
+            "date": "Wed Nov 4",
             "time": "8:00am",
-            "currency": "CNY",
-            "event": "CB Leading Index m/m",
-            "impact": "Low"
+            "currency": "USD",
+            "event": "ISM Services PMI",
+            "impact": "Medium"
         },
         {
-            "date": "Wed Oct 28",
-            "time": "8:45am",
-            "currency": "CAD",
-            "event": "BOC Monetary Policy Report",
-            "impact": "High"
-        },
-        {
-            "date": "Wed Oct 28",
-            "time": "8:45am",
-            "currency": "CAD",
-            "event": "BOC Rate Statement",
-            "impact": "High"
-        },
-        {
-            "date": "Wed Oct 28",
-            "time": "8:45am",
-            "currency": "CAD",
-            "event": "Overnight Rate",
-            "impact": "High"
-        },
-        {
-            "date": "Wed Oct 28",
-            "time": "9:30am",
-            "currency": "CAD",
-            "event": "BOC Press Conference",
-            "impact": "High"
-        },
-        {
-            "date": "Wed Oct 28",
-            "time": "9:30am",
+            "date": "Wed Nov 4",
+            "time": "8:30am",
             "currency": "USD",
             "event": "Crude Oil Inventories",
             "impact": "Low"
         },
         {
-            "date": "Wed Oct 28",
-            "time": "1:00pm",
-            "currency": "USD",
-            "event": "Federal Funds Rate",
-            "impact": "High"
-        },
-        {
-            "date": "Wed Oct 28",
-            "time": "1:00pm",
-            "currency": "USD",
-            "event": "FOMC Statement",
-            "impact": "High"
-        },
-        {
-            "date": "Wed Oct 28",
-            "time": "1:30pm",
-            "currency": "USD",
-            "event": "FOMC Press Conference",
-            "impact": "High"
-        },
-        {
-            "date": "Wed Oct 28",
-            "time": "7:00pm",
-            "currency": "NZD",
-            "event": "ANZ Business Confidence",
-            "impact": "Low"
-        },
-        {
-            "date": "Wed Oct 28",
-            "time": "7:30pm",
-            "currency": "AUD",
-            "event": "Import Prices q/q",
-            "impact": "Low"
-        },
-        {
-            "date": "Thu Oct 29",
-            "time": "12:00am",
+            "date": "Wed Nov 4",
+            "time": "4:50pm",
             "currency": "JPY",
-            "event": "Consumer Confidence",
+            "event": "Monetary Policy Meeting Minutes",
             "impact": "Low"
         },
         {
-            "date": "Thu Oct 29",
-            "time": "4:00am",
+            "date": "Wed Nov 4",
+            "time": "5:30pm",
+            "currency": "AUD",
+            "event": "Goods Trade Balance",
+            "impact": "Low"
+        },
+        {
+            "date": "Wed Nov 4",
+            "time": "8:35pm",
+            "currency": "JPY",
+            "event": "10-y Bond Auction",
+            "impact": "Low"
+        },
+        {
+            "date": "Wed Nov 4",
+            "time": "11:45pm",
+            "currency": "AUD",
+            "event": "RBA Deputy Gov Hauser Speaks",
+            "impact": "Low"
+        },
+        {
+            "date": "Thu Nov 5",
+            "time": "12:00am",
             "currency": "EUR",
-            "event": "Italian Monthly Unemployment Rate",
+            "event": "German Factory Orders m/m",
             "impact": "Low"
         },
         {
-            "date": "Thu Oct 29",
-            "time": "4:30am",
-            "currency": "GBP",
-            "event": "M4 Money Supply m/m",
-            "impact": "Low"
-        },
-        {
-            "date": "Thu Oct 29",
-            "time": "4:30am",
-            "currency": "GBP",
-            "event": "Mortgage Approvals",
-            "impact": "Low"
-        },
-        {
-            "date": "Thu Oct 29",
-            "time": "4:30am",
-            "currency": "GBP",
-            "event": "Net Lending to Individuals m/m",
-            "impact": "Low"
-        },
-        {
-            "date": "Thu Oct 29",
-            "time": "5:08am",
+            "date": "Thu Nov 5",
+            "time": "12:45am",
             "currency": "EUR",
-            "event": "Italian 10-y Bond Auction",
+            "event": "French Industrial Production m/m",
             "impact": "Low"
         },
         {
-            "date": "Thu Oct 29",
-            "time": "7:30am",
+            "date": "Thu Nov 5",
+            "time": "1:00am",
+            "currency": "CHF",
+            "event": "Unemployment Rate",
+            "impact": "Low"
+        },
+        {
+            "date": "Thu Nov 5",
+            "time": "2:00am",
+            "currency": "EUR",
+            "event": "Italian Retail Sales m/m",
+            "impact": "Low"
+        },
+        {
+            "date": "Thu Nov 5",
+            "time": "2:30am",
+            "currency": "GBP",
+            "event": "Construction PMI",
+            "impact": "Low"
+        },
+        {
+            "date": "Thu Nov 5",
+            "time": "3:00am",
+            "currency": "EUR",
+            "event": "PPI m/m",
+            "impact": "Low"
+        },
+        {
+            "date": "Thu Nov 5",
+            "time": "Tentative",
+            "currency": "EUR",
+            "event": "Spanish 10-y Bond Auction",
+            "impact": "Low"
+        },
+        {
+            "date": "Thu Nov 5",
+            "time": "Tentative",
+            "currency": "EUR",
+            "event": "French 10-y Bond Auction",
+            "impact": "Low"
+        },
+        {
+            "date": "Thu Nov 5",
+            "time": "3:30am",
             "currency": "USD",
-            "event": "Advance GDP q/q",
+            "event": "Challenger Job Cuts y/y",
+            "impact": "Low"
+        },
+        {
+            "date": "Thu Nov 5",
+            "time": "5:00am",
+            "currency": "GBP",
+            "event": "BOE Monetary Policy Report",
             "impact": "High"
         },
         {
-            "date": "Thu Oct 29",
-            "time": "7:30am",
-            "currency": "USD",
-            "event": "Core PCE Price Index m/m",
+            "date": "Thu Nov 5",
+            "time": "5:00am",
+            "currency": "GBP",
+            "event": "Monetary Policy Summary",
             "impact": "High"
         },
         {
-            "date": "Thu Oct 29",
-            "time": "7:30am",
-            "currency": "USD",
-            "event": "Advance GDP Price Index q/q",
+            "date": "Thu Nov 5",
+            "time": "5:00am",
+            "currency": "GBP",
+            "event": "MPC Official Bank Rate Votes",
+            "impact": "High"
+        },
+        {
+            "date": "Thu Nov 5",
+            "time": "5:00am",
+            "currency": "GBP",
+            "event": "Official Bank Rate",
+            "impact": "High"
+        },
+        {
+            "date": "Thu Nov 5",
+            "time": "5:30am",
+            "currency": "GBP",
+            "event": "BOE Gov Bailey Speaks",
+            "impact": "High"
+        },
+        {
+            "date": "Thu Nov 5",
+            "time": "5:40am",
+            "currency": "CHF",
+            "event": "SNB Chairman Schlegel Speaks",
             "impact": "Medium"
         },
         {
-            "date": "Thu Oct 29",
-            "time": "7:30am",
+            "date": "Thu Nov 5",
+            "time": "6:30am",
             "currency": "USD",
             "event": "Unemployment Claims",
             "impact": "Medium"
         },
         {
-            "date": "Thu Oct 29",
-            "time": "7:30am",
+            "date": "Thu Nov 5",
+            "time": "6:30am",
             "currency": "USD",
-            "event": "Personal Income m/m",
+            "event": "Prelim Nonfarm Productivity q/q",
             "impact": "Low"
         },
         {
-            "date": "Thu Oct 29",
-            "time": "7:30am",
+            "date": "Thu Nov 5",
+            "time": "6:30am",
             "currency": "USD",
-            "event": "Personal Spending m/m",
+            "event": "Prelim Unit Labor Costs q/q",
             "impact": "Low"
         },
         {
-            "date": "Thu Oct 29",
-            "time": "7:50am",
+            "date": "Thu Nov 5",
+            "time": "6:50am",
+            "currency": "USD",
+            "event": "FOMC Member Hammack Speaks",
+            "impact": "Low"
+        },
+        {
+            "date": "Thu Nov 5",
+            "time": "7:10am",
+            "currency": "USD",
+            "event": "FOMC Member Barkin Speaks",
+            "impact": "Low"
+        },
+        {
+            "date": "Thu Nov 5",
+            "time": "8:30am",
             "currency": "CAD",
-            "event": "Gov Council Member Gravelle Speaks",
-            "impact": "Low"
+            "event": "BOC Gov Macklem Speaks",
+            "impact": "Medium"
         },
         {
-            "date": "Thu Oct 29",
-            "time": "8:15am",
-            "currency": "EUR",
-            "event": "Main Refinancing Rate",
-            "impact": "High"
-        },
-        {
-            "date": "Thu Oct 29",
-            "time": "8:15am",
-            "currency": "EUR",
-            "event": "Monetary Policy Statement",
-            "impact": "High"
-        },
-        {
-            "date": "Thu Oct 29",
-            "time": "8:45am",
-            "currency": "EUR",
-            "event": "ECB Press Conference",
-            "impact": "High"
-        },
-        {
-            "date": "Thu Oct 29",
-            "time": "9:30am",
+            "date": "Thu Nov 5",
+            "time": "8:30am",
             "currency": "USD",
             "event": "Natural Gas Storage",
             "impact": "Low"
         },
         {
-            "date": "Thu Oct 29",
-            "time": "10:30am",
-            "currency": "CAD",
-            "event": "Gov Council Member Vincent Speaks",
+            "date": "Thu Nov 5",
+            "time": "10:45am",
+            "currency": "EUR",
+            "event": "German Buba President Nagel Speaks",
             "impact": "Low"
         },
         {
-            "date": "Thu Oct 29",
-            "time": "12:30pm",
+            "date": "Thu Nov 5",
+            "time": "11:00am",
+            "currency": "EUR",
+            "event": "ECB President Lagarde Speaks",
+            "impact": "Medium"
+        },
+        {
+            "date": "Thu Nov 5",
+            "time": "2:00pm",
+            "currency": "CAD",
+            "event": "Annual Budget Release",
+            "impact": "Medium"
+        },
+        {
+            "date": "Thu Nov 5",
+            "time": "4:30pm",
+            "currency": "JPY",
+            "event": "Average Cash Earnings y/y",
+            "impact": "Low"
+        },
+        {
+            "date": "Fri Nov 6",
+            "time": "12:00am",
+            "currency": "EUR",
+            "event": "German Industrial Production m/m",
+            "impact": "Low"
+        },
+        {
+            "date": "Fri Nov 6",
+            "time": "12:00am",
+            "currency": "GBP",
+            "event": "Lloyds HPI m/m",
+            "impact": "Low"
+        },
+        {
+            "date": "Fri Nov 6",
+            "time": "12:45am",
+            "currency": "EUR",
+            "event": "French Trade Balance",
+            "impact": "Low"
+        },
+        {
+            "date": "Fri Nov 6",
+            "time": "1:00am",
+            "currency": "CHF",
+            "event": "Foreign Currency Reserves",
+            "impact": "Low"
+        },
+        {
+            "date": "Fri Nov 6",
+            "time": "1:00am",
+            "currency": "CHF",
+            "event": "SECO Consumer Climate",
+            "impact": "Low"
+        },
+        {
+            "date": "Fri Nov 6",
+            "time": "2:30am",
+            "currency": "USD",
+            "event": "FOMC Member Williams Speaks",
+            "impact": "Low"
+        },
+        {
+            "date": "Fri Nov 6",
+            "time": "3:00am",
+            "currency": "EUR",
+            "event": "Retail Sales m/m",
+            "impact": "Low"
+        },
+        {
+            "date": "Fri Nov 6",
+            "time": "4:00am",
             "currency": "CHF",
             "event": "Gov Board Member Tschudin Speaks",
             "impact": "Low"
         },
         {
-            "date": "Thu Oct 29",
-            "time": "6:30pm",
-            "currency": "JPY",
-            "event": "Tokyo Core CPI y/y",
-            "impact": "Medium"
-        },
-        {
-            "date": "Thu Oct 29",
-            "time": "6:30pm",
-            "currency": "JPY",
-            "event": "Unemployment Rate",
-            "impact": "Low"
-        },
-        {
-            "date": "Thu Oct 29",
-            "time": "6:50pm",
-            "currency": "JPY",
-            "event": "Prelim Industrial Production m/m",
-            "impact": "Low"
-        },
-        {
-            "date": "Thu Oct 29",
-            "time": "6:50pm",
-            "currency": "JPY",
-            "event": "Retail Sales y/y",
-            "impact": "Low"
-        },
-        {
-            "date": "Thu Oct 29",
-            "time": "7:30pm",
-            "currency": "AUD",
-            "event": "PPI q/q",
-            "impact": "Low"
-        },
-        {
-            "date": "Thu Oct 29",
-            "time": "7:30pm",
-            "currency": "AUD",
-            "event": "Private Sector Credit m/m",
-            "impact": "Low"
-        },
-        {
-            "date": "Thu Oct 29",
-            "time": "10:02pm",
-            "currency": "JPY",
-            "event": "BOJ Outlook Report",
-            "impact": "High"
-        },
-        {
-            "date": "Thu Oct 29",
-            "time": "10:02pm",
-            "currency": "JPY",
-            "event": "BOJ Policy Rate",
-            "impact": "High"
-        },
-        {
-            "date": "Thu Oct 29",
-            "time": "10:02pm",
-            "currency": "JPY",
-            "event": "Monetary Policy Statement",
-            "impact": "High"
-        },
-        {
-            "date": "Fri Oct 30",
-            "time": "12:00am",
-            "currency": "JPY",
-            "event": "Housing Starts y/y",
-            "impact": "Low"
-        },
-        {
-            "date": "Fri Oct 30",
-            "time": "1:30am",
-            "currency": "EUR",
-            "event": "French Consumer Spending m/m",
-            "impact": "Low"
-        },
-        {
-            "date": "Fri Oct 30",
-            "time": "1:30am",
-            "currency": "EUR",
-            "event": "French Flash GDP q/q",
-            "impact": "Low"
-        },
-        {
-            "date": "Fri Oct 30",
-            "time": "1:30am",
-            "currency": "JPY",
-            "event": "BOJ Press Conference",
-            "impact": "High"
-        },
-        {
-            "date": "Fri Oct 30",
-            "time": "2:00am",
-            "currency": "EUR",
-            "event": "German Import Prices m/m",
-            "impact": "Low"
-        },
-        {
-            "date": "Fri Oct 30",
-            "time": "2:00am",
+            "date": "Fri Nov 6",
+            "time": "5:15am",
             "currency": "GBP",
-            "event": "Nationwide HPI m/m",
+            "event": "MPC Member Pill Speaks",
             "impact": "Low"
         },
         {
-            "date": "Fri Oct 30",
-            "time": "All Day",
-            "currency": "EUR",
-            "event": "German Prelim CPI m/m",
-            "impact": "Medium"
-        },
-        {
-            "date": "Fri Oct 30",
-            "time": "2:45am",
-            "currency": "EUR",
-            "event": "French Prelim CPI m/m",
-            "impact": "Low"
-        },
-        {
-            "date": "Fri Oct 30",
-            "time": "2:45am",
-            "currency": "EUR",
-            "event": "French Prelim Private Payrolls q/q",
-            "impact": "Low"
-        },
-        {
-            "date": "Fri Oct 30",
-            "time": "3:00am",
-            "currency": "CHF",
-            "event": "KOF Economic Barometer",
-            "impact": "Low"
-        },
-        {
-            "date": "Fri Oct 30",
-            "time": "3:00am",
-            "currency": "EUR",
-            "event": "Spanish Flash CPI y/y",
-            "impact": "Low"
-        },
-        {
-            "date": "Fri Oct 30",
-            "time": "3:00am",
-            "currency": "EUR",
-            "event": "Spanish Flash GDP q/q",
-            "impact": "Low"
-        },
-        {
-            "date": "Fri Oct 30",
-            "time": "3:55am",
-            "currency": "EUR",
-            "event": "German Unemployment Change",
-            "impact": "Low"
-        },
-        {
-            "date": "Fri Oct 30",
-            "time": "4:00am",
-            "currency": "EUR",
-            "event": "German Prelim GDP q/q",
-            "impact": "Medium"
-        },
-        {
-            "date": "Fri Oct 30",
-            "time": "4:00am",
-            "currency": "EUR",
-            "event": "Italian Prelim GDP q/q",
-            "impact": "Low"
-        },
-        {
-            "date": "Fri Oct 30",
-            "time": "5:00am",
-            "currency": "EUR",
-            "event": "Italian Prelim CPI m/m",
-            "impact": "Low"
-        },
-        {
-            "date": "Fri Oct 30",
-            "time": "5:00am",
-            "currency": "EUR",
-            "event": "Prelim Flash GDP q/q",
-            "impact": "Low"
-        },
-        {
-            "date": "Fri Oct 30",
-            "time": "5:00am",
-            "currency": "EUR",
-            "event": "Unemployment Rate",
-            "impact": "Low"
-        },
-        {
-            "date": "Fri Oct 30",
-            "time": "7:30am",
+            "date": "Fri Nov 6",
+            "time": "6:30am",
             "currency": "CAD",
-            "event": "GDP m/m",
-            "impact": "Medium"
+            "event": "Employment Change",
+            "impact": "High"
         },
         {
-            "date": "Fri Oct 30",
-            "time": "7:30am",
+            "date": "Fri Nov 6",
+            "time": "6:30am",
+            "currency": "CAD",
+            "event": "Unemployment Rate",
+            "impact": "High"
+        },
+        {
+            "date": "Fri Nov 6",
+            "time": "6:30am",
             "currency": "USD",
-            "event": "Employment Cost Index q/q",
-            "impact": "Medium"
+            "event": "Average Hourly Earnings m/m",
+            "impact": "High"
         },
         {
-            "date": "Fri Oct 30",
-            "time": "8:45am",
+            "date": "Fri Nov 6",
+            "time": "6:30am",
             "currency": "USD",
-            "event": "Chicago PMI",
-            "impact": "Low"
+            "event": "Non-Farm Employment Change",
+            "impact": "High"
         },
         {
-            "date": "Fri Oct 30",
-            "time": "11:00am",
+            "date": "Fri Nov 6",
+            "time": "6:30am",
             "currency": "USD",
-            "event": "FOMC Member Daly Speaks",
-            "impact": "Low"
+            "event": "Unemployment Rate",
+            "impact": "High"
         },
         {
-            "date": "Fri Oct 30",
-            "time": "11:30am",
+            "date": "Fri Nov 6",
+            "time": "7:10am",
             "currency": "USD",
             "event": "FOMC Member Musalem Speaks",
             "impact": "Low"
         },
         {
-            "date": "Fri Oct 30",
-            "time": "12:30pm",
+            "date": "Fri Nov 6",
+            "time": "8:00am",
+            "currency": "CAD",
+            "event": "Ivey PMI",
+            "impact": "Medium"
+        },
+        {
+            "date": "Fri Nov 6",
+            "time": "8:00am",
             "currency": "USD",
-            "event": "FOMC Member Logan Speaks",
+            "event": "Prelim UoM Consumer Sentiment",
+            "impact": "Medium"
+        },
+        {
+            "date": "Fri Nov 6",
+            "time": "8:00am",
+            "currency": "USD",
+            "event": "Prelim UoM Inflation Expectations",
+            "impact": "Medium"
+        },
+        {
+            "date": "Fri Nov 6",
+            "time": "9:00am",
+            "currency": "JPY",
+            "event": "BOJ Gov Ueda Speaks",
+            "impact": "High"
+        },
+        {
+            "date": "Fri Nov 6",
+            "time": "10:15am",
+            "currency": "USD",
+            "event": "FOMC Member Bowman Speaks",
             "impact": "Low"
         },
         {
-            "date": "Fri Oct 30",
-            "time": "8:30pm",
-            "currency": "CNY",
-            "event": "Manufacturing PMI",
+            "date": "Fri Nov 6",
+            "time": "1:00pm",
+            "currency": "USD",
+            "event": "Consumer Credit m/m",
             "impact": "Low"
         },
         {
-            "date": "Fri Oct 30",
-            "time": "8:30pm",
-            "currency": "CNY",
-            "event": "Non-Manufacturing PMI",
-            "impact": "Low"
+            "date": "Fri Nov 6",
+            "time": "All Day",
+            "currency": "NZD",
+            "event": "Parliamentary Elections",
+            "impact": "High"
         }
     ]
 }
