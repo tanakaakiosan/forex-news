@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-11-02 23:55:00 JST",
+    "updated_at": "2026-11-03 22:43:39 JST",
     "source_timezone_note": "date/time fields are exactly as displayed on forexfactory.com at scrape time (site default: America/New York)",
     "events": [
         {
@@ -158,7 +158,7 @@
         },
         {
             "date": "Mon Nov 2",
-            "time": "Tentative",
+            "time": "1:00pm",
             "currency": "USD",
             "event": "Loan Officer Survey",
             "impact": "Low"
@@ -221,7 +221,7 @@
         },
         {
             "date": "Tue Nov 3",
-            "time": "Tentative",
+            "time": "4:02am",
             "currency": "GBP",
             "event": "10-y Bond Auction",
             "impact": "Low"
