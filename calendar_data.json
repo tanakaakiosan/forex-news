@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-11-09 13:56:24 JST",
+    "updated_at": "2026-11-10 00:23:43 JST",
     "source_timezone_note": "date/time fields are exactly as displayed on forexfactory.com at scrape time (site default: America/New York)",
     "events": [
         {
@@ -35,20 +35,6 @@
             "time": "1:00am",
             "currency": "EUR",
             "event": "German Trade Balance",
-            "impact": "Low"
-        },
-        {
-            "date": "Mon Nov 9",
-            "time": "9th-14th",
-            "currency": "CNY",
-            "event": "M2 Money Supply y/y",
-            "impact": "Low"
-        },
-        {
-            "date": "Mon Nov 9",
-            "time": "9th-14th",
-            "currency": "CNY",
-            "event": "New Loans",
             "impact": "Low"
         },
         {
@@ -197,6 +183,20 @@
             "currency": "USD",
             "event": "FOMC Member Waller Speaks",
             "impact": "Medium"
+        },
+        {
+            "date": "Tue Nov 10",
+            "time": "10th-14th",
+            "currency": "CNY",
+            "event": "M2 Money Supply y/y",
+            "impact": "Low"
+        },
+        {
+            "date": "Tue Nov 10",
+            "time": "10th-14th",
+            "currency": "CNY",
+            "event": "New Loans",
+            "impact": "Low"
         },
         {
             "date": "Tue Nov 10",
