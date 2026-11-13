@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-11-13 14:24:40 JST",
+    "updated_at": "2026-11-13 23:01:22 JST",
     "source_timezone_note": "date/time fields are exactly as displayed on forexfactory.com at scrape time (site default: America/New York)",
     "events": [
         {
@@ -607,6 +607,20 @@
         {
             "date": "Fri Nov 13",
             "time": "2:00am",
+            "currency": "CNY",
+            "event": "M2 Money Supply y/y",
+            "impact": "Low"
+        },
+        {
+            "date": "Fri Nov 13",
+            "time": "2:00am",
+            "currency": "CNY",
+            "event": "New Loans",
+            "impact": "Low"
+        },
+        {
+            "date": "Fri Nov 13",
+            "time": "2:00am",
             "currency": "EUR",
             "event": "Italian Trade Balance",
             "impact": "Low"
@@ -630,20 +644,6 @@
             "time": "3:00am",
             "currency": "EUR",
             "event": "Trade Balance",
-            "impact": "Low"
-        },
-        {
-            "date": "Fri Nov 13",
-            "time": "Tentative",
-            "currency": "CNY",
-            "event": "M2 Money Supply y/y",
-            "impact": "Low"
-        },
-        {
-            "date": "Fri Nov 13",
-            "time": "Tentative",
-            "currency": "CNY",
-            "event": "New Loans",
             "impact": "Low"
         },
         {
