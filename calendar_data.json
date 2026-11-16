@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-11-16 14:04:35 JST",
+    "updated_at": "2026-11-16 23:58:45 JST",
     "source_timezone_note": "date/time fields are exactly as displayed on forexfactory.com at scrape time (site default: America/New York)",
     "events": [
         {
@@ -144,7 +144,7 @@
         },
         {
             "date": "Mon Nov 16",
-            "time": "Tentative",
+            "time": "8:45am",
             "currency": "USD",
             "event": "Cleveland Fed Inflation Expectations",
             "impact": "Low"
