@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-11-19 00:12:33 JST",
+    "updated_at": "2026-11-19 08:56:46 JST",
     "source_timezone_note": "date/time fields are exactly as displayed on forexfactory.com at scrape time (site default: America/New York)",
     "events": [
         {
@@ -627,13 +627,6 @@
         },
         {
             "date": "Thu Nov 19",
-            "time": "Tentative",
-            "currency": "CNY",
-            "event": "Foreign Direct Investment ytd/y",
-            "impact": "Low"
-        },
-        {
-            "date": "Thu Nov 19",
             "time": "2:00am",
             "currency": "EUR",
             "event": "Current Account",
@@ -812,6 +805,13 @@
             "time": "12:00am",
             "currency": "GBP",
             "event": "Public Sector Net Borrowing",
+            "impact": "Low"
+        },
+        {
+            "date": "Fri Nov 20",
+            "time": "Tentative",
+            "currency": "CNY",
+            "event": "Foreign Direct Investment ytd/y",
             "impact": "Low"
         },
         {
