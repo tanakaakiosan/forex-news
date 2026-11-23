@@ -1,31 +1,31 @@
 {
-    "updated_at": "2026-11-23 08:18:10 JST",
+    "updated_at": "2026-11-23 15:03:53 JST",
     "source_timezone_note": "date/time fields are exactly as displayed on forexfactory.com at scrape time (site default: America/New York)",
     "events": [
         {
             "date": "Sun Nov 22",
-            "time": "3:45pm",
+            "time": "2:45pm",
             "currency": "NZD",
             "event": "Core Retail Sales q/q",
             "impact": "Low"
         },
         {
             "date": "Sun Nov 22",
-            "time": "3:45pm",
+            "time": "2:45pm",
             "currency": "NZD",
             "event": "Retail Sales q/q",
             "impact": "Low"
         },
         {
             "date": "Sun Nov 22",
-            "time": "4:00pm",
+            "time": "3:00pm",
             "currency": "AUD",
             "event": "Flash Manufacturing PMI",
             "impact": "Low"
         },
         {
             "date": "Sun Nov 22",
-            "time": "4:00pm",
+            "time": "3:00pm",
             "currency": "AUD",
             "event": "Flash Services PMI",
             "impact": "Low"
@@ -39,98 +39,98 @@
         },
         {
             "date": "Mon Nov 23",
-            "time": "2:15am",
+            "time": "1:15am",
             "currency": "EUR",
             "event": "French Flash Manufacturing PMI",
             "impact": "Medium"
         },
         {
             "date": "Mon Nov 23",
-            "time": "2:15am",
+            "time": "1:15am",
             "currency": "EUR",
             "event": "French Flash Services PMI",
             "impact": "Medium"
         },
         {
             "date": "Mon Nov 23",
-            "time": "2:30am",
+            "time": "1:30am",
             "currency": "EUR",
             "event": "German Flash Manufacturing PMI",
             "impact": "Medium"
         },
         {
             "date": "Mon Nov 23",
-            "time": "2:30am",
+            "time": "1:30am",
             "currency": "EUR",
             "event": "German Flash Services PMI",
             "impact": "Medium"
         },
         {
             "date": "Mon Nov 23",
-            "time": "3:00am",
+            "time": "2:00am",
             "currency": "EUR",
             "event": "Flash Manufacturing PMI",
             "impact": "Low"
         },
         {
             "date": "Mon Nov 23",
-            "time": "3:00am",
+            "time": "2:00am",
             "currency": "EUR",
             "event": "Flash Services PMI",
             "impact": "Low"
         },
         {
             "date": "Mon Nov 23",
-            "time": "3:30am",
+            "time": "2:30am",
             "currency": "GBP",
             "event": "Flash Manufacturing PMI",
             "impact": "Medium"
         },
         {
             "date": "Mon Nov 23",
-            "time": "3:30am",
+            "time": "2:30am",
             "currency": "GBP",
             "event": "Flash Services PMI",
             "impact": "Medium"
         },
         {
             "date": "Mon Nov 23",
-            "time": "7:00am",
+            "time": "6:00am",
             "currency": "GBP",
             "event": "MPC Member Pill Speaks",
             "impact": "Low"
         },
         {
             "date": "Mon Nov 23",
-            "time": "7:30am",
+            "time": "6:30am",
             "currency": "CAD",
             "event": "Corporate Profits q/q",
             "impact": "Low"
         },
         {
             "date": "Mon Nov 23",
-            "time": "8:45am",
+            "time": "7:45am",
             "currency": "USD",
             "event": "Flash Manufacturing PMI",
             "impact": "Medium"
         },
         {
             "date": "Mon Nov 23",
-            "time": "8:45am",
+            "time": "7:45am",
             "currency": "USD",
             "event": "Flash Services PMI",
             "impact": "Medium"
         },
         {
             "date": "Mon Nov 23",
-            "time": "3:00pm",
+            "time": "2:00pm",
             "currency": "USD",
             "event": "FOMC Member Williams Speaks",
             "impact": "Low"
         },
         {
             "date": "Mon Nov 23",
-            "time": "6:30pm",
+            "time": "5:30pm",
             "currency": "JPY",
             "event": "Flash Manufacturing PMI",
             "impact": "Low"
@@ -144,140 +144,140 @@
         },
         {
             "date": "Tue Nov 24",
-            "time": "3:00am",
+            "time": "2:00am",
             "currency": "EUR",
             "event": "German ifo Business Climate",
             "impact": "Low"
         },
         {
             "date": "Tue Nov 24",
-            "time": "5:00am",
+            "time": "4:00am",
             "currency": "GBP",
             "event": "CBI Realized Sales",
             "impact": "Low"
         },
         {
             "date": "Tue Nov 24",
-            "time": "6:30am",
+            "time": "5:30am",
             "currency": "GBP",
             "event": "MPC Member Greene Speaks",
             "impact": "Low"
         },
         {
             "date": "Tue Nov 24",
-            "time": "7:15am",
+            "time": "6:15am",
             "currency": "USD",
             "event": "ADP Weekly Employment Change",
             "impact": "Low"
         },
         {
             "date": "Tue Nov 24",
-            "time": "8:00am",
+            "time": "7:00am",
             "currency": "CNY",
             "event": "CB Leading Index m/m",
             "impact": "Low"
         },
         {
             "date": "Tue Nov 24",
-            "time": "8:00am",
+            "time": "7:00am",
             "currency": "EUR",
             "event": "Belgian NBB Business Climate",
             "impact": "Low"
         },
         {
             "date": "Tue Nov 24",
-            "time": "8:00am",
+            "time": "7:00am",
             "currency": "USD",
             "event": "HPI m/m",
             "impact": "Low"
         },
         {
             "date": "Tue Nov 24",
-            "time": "8:00am",
+            "time": "7:00am",
             "currency": "USD",
             "event": "S&P/CS Composite-20 HPI y/y",
             "impact": "Low"
         },
         {
             "date": "Tue Nov 24",
-            "time": "9:00am",
+            "time": "8:00am",
             "currency": "USD",
             "event": "CB Consumer Confidence",
             "impact": "Medium"
         },
         {
             "date": "Tue Nov 24",
-            "time": "9:00am",
+            "time": "8:00am",
             "currency": "USD",
             "event": "Richmond Manufacturing Index",
             "impact": "Low"
         },
         {
             "date": "Tue Nov 24",
-            "time": "11:25am",
+            "time": "10:25am",
             "currency": "CAD",
             "event": "BOC Gov Macklem Speaks",
             "impact": "Medium"
         },
         {
             "date": "Tue Nov 24",
-            "time": "3:30pm",
+            "time": "2:30pm",
             "currency": "USD",
             "event": "API Weekly Statistical Bulletin",
             "impact": "Low"
         },
         {
             "date": "Tue Nov 24",
-            "time": "5:50pm",
+            "time": "4:50pm",
             "currency": "JPY",
             "event": "SPPI y/y",
             "impact": "Low"
         },
         {
             "date": "Tue Nov 24",
-            "time": "6:30pm",
+            "time": "5:30pm",
             "currency": "AUD",
             "event": "CPI m/m",
             "impact": "High"
         },
         {
             "date": "Tue Nov 24",
-            "time": "6:30pm",
+            "time": "5:30pm",
             "currency": "AUD",
             "event": "CPI y/y",
             "impact": "High"
         },
         {
             "date": "Tue Nov 24",
-            "time": "6:30pm",
+            "time": "5:30pm",
             "currency": "AUD",
             "event": "Trimmed Mean CPI m/m",
             "impact": "High"
         },
         {
             "date": "Tue Nov 24",
-            "time": "6:30pm",
+            "time": "5:30pm",
             "currency": "AUD",
             "event": "Construction Work Done q/q",
             "impact": "Low"
         },
         {
             "date": "Tue Nov 24",
-            "time": "11:00pm",
+            "time": "10:00pm",
             "currency": "JPY",
             "event": "BOJ Core CPI y/y",
             "impact": "Low"
         },
         {
             "date": "Wed Nov 25",
-            "time": "1:00am",
+            "time": "12:00am",
             "currency": "EUR",
             "event": "German Final GDP q/q",
             "impact": "Low"
         },
         {
             "date": "Wed Nov 25",
-            "time": "3:00am",
+            "time": "2:00am",
             "currency": "CHF",
             "event": "UBS Economic Expectations",
             "impact": "Low"
@@ -291,147 +291,147 @@
         },
         {
             "date": "Wed Nov 25",
-            "time": "7:30am",
+            "time": "6:30am",
             "currency": "USD",
             "event": "Core PCE Price Index m/m",
             "impact": "High"
         },
         {
             "date": "Wed Nov 25",
-            "time": "7:30am",
+            "time": "6:30am",
             "currency": "USD",
             "event": "Prelim GDP q/q",
             "impact": "High"
         },
         {
             "date": "Wed Nov 25",
-            "time": "7:30am",
+            "time": "6:30am",
             "currency": "USD",
             "event": "Prelim GDP Price Index q/q",
             "impact": "Medium"
         },
         {
             "date": "Wed Nov 25",
-            "time": "7:30am",
+            "time": "6:30am",
             "currency": "USD",
             "event": "Unemployment Claims",
             "impact": "Medium"
         },
         {
             "date": "Wed Nov 25",
-            "time": "7:30am",
+            "time": "6:30am",
             "currency": "USD",
             "event": "Core Durable Goods Orders m/m",
             "impact": "Low"
         },
         {
             "date": "Wed Nov 25",
-            "time": "7:30am",
+            "time": "6:30am",
             "currency": "USD",
             "event": "Durable Goods Orders m/m",
             "impact": "Low"
         },
         {
             "date": "Wed Nov 25",
-            "time": "7:30am",
+            "time": "6:30am",
             "currency": "USD",
             "event": "Personal Income m/m",
             "impact": "Low"
         },
         {
             "date": "Wed Nov 25",
-            "time": "7:30am",
+            "time": "6:30am",
             "currency": "USD",
             "event": "Personal Spending m/m",
             "impact": "Low"
         },
         {
             "date": "Wed Nov 25",
-            "time": "9:00am",
+            "time": "8:00am",
             "currency": "USD",
             "event": "New Home Sales",
             "impact": "Low"
         },
         {
             "date": "Wed Nov 25",
-            "time": "9:30am",
+            "time": "8:30am",
             "currency": "USD",
             "event": "Crude Oil Inventories",
             "impact": "Low"
         },
         {
             "date": "Wed Nov 25",
-            "time": "11:00am",
+            "time": "10:00am",
             "currency": "USD",
             "event": "Natural Gas Storage",
             "impact": "Low"
         },
         {
             "date": "Wed Nov 25",
-            "time": "1:00pm",
+            "time": "12:00pm",
             "currency": "USD",
             "event": "Beige Book",
             "impact": "Low"
         },
         {
             "date": "Wed Nov 25",
-            "time": "6:30pm",
+            "time": "5:30pm",
             "currency": "AUD",
             "event": "Private Capital Expenditure q/q",
             "impact": "Low"
         },
         {
             "date": "Wed Nov 25",
-            "time": "6:30pm",
+            "time": "5:30pm",
             "currency": "AUD",
             "event": "RBA Bulletin",
             "impact": "Low"
         },
         {
             "date": "Thu Nov 26",
-            "time": "1:00am",
+            "time": "12:00am",
             "currency": "EUR",
             "event": "German GfK Consumer Climate",
             "impact": "Low"
         },
         {
             "date": "Thu Nov 26",
-            "time": "3:00am",
+            "time": "2:00am",
             "currency": "EUR",
             "event": "M3 Money Supply y/y",
             "impact": "Low"
         },
         {
             "date": "Thu Nov 26",
-            "time": "3:00am",
+            "time": "2:00am",
             "currency": "EUR",
             "event": "Private Loans y/y",
             "impact": "Low"
         },
         {
             "date": "Thu Nov 26",
-            "time": "4:30am",
+            "time": "3:30am",
             "currency": "GBP",
             "event": "BOE Financial Stability Report",
             "impact": "Low"
         },
         {
             "date": "Thu Nov 26",
-            "time": "4:30am",
+            "time": "3:30am",
             "currency": "GBP",
             "event": "FPC Meeting Minutes",
             "impact": "Low"
         },
         {
             "date": "Thu Nov 26",
-            "time": "4:30am",
+            "time": "3:30am",
             "currency": "GBP",
             "event": "FPC Statement",
             "impact": "Low"
         },
         {
             "date": "Thu Nov 26",
-            "time": "6:30am",
+            "time": "5:30am",
             "currency": "EUR",
             "event": "ECB Monetary Policy Meeting Accounts",
             "impact": "Low"
@@ -445,49 +445,49 @@
         },
         {
             "date": "Thu Nov 26",
-            "time": "5:30pm",
+            "time": "4:30pm",
             "currency": "JPY",
             "event": "Tokyo Core CPI y/y",
             "impact": "Medium"
         },
         {
             "date": "Fri Nov 27",
-            "time": "1:45am",
+            "time": "12:45am",
             "currency": "EUR",
             "event": "French Consumer Spending m/m",
             "impact": "Low"
         },
         {
             "date": "Fri Nov 27",
-            "time": "1:45am",
+            "time": "12:45am",
             "currency": "EUR",
             "event": "French Final Private Payrolls q/q",
             "impact": "Low"
         },
         {
             "date": "Fri Nov 27",
-            "time": "1:45am",
+            "time": "12:45am",
             "currency": "EUR",
             "event": "French Prelim CPI m/m",
             "impact": "Low"
         },
         {
             "date": "Fri Nov 27",
-            "time": "1:45am",
+            "time": "12:45am",
             "currency": "EUR",
             "event": "French Prelim GDP q/q",
             "impact": "Low"
         },
         {
             "date": "Fri Nov 27",
-            "time": "2:00am",
+            "time": "1:00am",
             "currency": "EUR",
             "event": "Spanish Flash CPI y/y",
             "impact": "Low"
         },
         {
             "date": "Fri Nov 27",
-            "time": "2:55am",
+            "time": "1:55am",
             "currency": "EUR",
             "event": "German Unemployment Change",
             "impact": "Low"
@@ -501,28 +501,28 @@
         },
         {
             "date": "Fri Nov 27",
-            "time": "6:40am",
+            "time": "5:40am",
             "currency": "EUR",
             "event": "German Buba President Nagel Speaks",
             "impact": "Low"
         },
         {
             "date": "Fri Nov 27",
-            "time": "7:30am",
+            "time": "6:30am",
             "currency": "CAD",
             "event": "Current Account",
             "impact": "Low"
         },
         {
             "date": "Fri Nov 27",
-            "time": "7:30am",
+            "time": "6:30am",
             "currency": "USD",
             "event": "Goods Trade Balance",
             "impact": "Low"
         },
         {
             "date": "Fri Nov 27",
-            "time": "7:30am",
+            "time": "6:30am",
             "currency": "USD",
             "event": "Prelim Wholesale Inventories m/m",
             "impact": "Low"
