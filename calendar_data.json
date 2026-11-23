@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-11-23 15:03:53 JST",
+    "updated_at": "2026-11-24 08:27:59 JST",
     "source_timezone_note": "date/time fields are exactly as displayed on forexfactory.com at scrape time (site default: America/New York)",
     "events": [
         {
@@ -102,7 +102,7 @@
         },
         {
             "date": "Mon Nov 23",
-            "time": "6:30am",
+            "time": "6:32am",
             "currency": "CAD",
             "event": "Corporate Profits q/q",
             "impact": "Low"
@@ -133,13 +133,6 @@
             "time": "5:30pm",
             "currency": "JPY",
             "event": "Flash Manufacturing PMI",
-            "impact": "Low"
-        },
-        {
-            "date": "Tue Nov 24",
-            "time": "Tentative",
-            "currency": "CNY",
-            "event": "Foreign Direct Investment ytd/y",
             "impact": "Low"
         },
         {
@@ -314,13 +307,6 @@
             "date": "Wed Nov 25",
             "time": "6:30am",
             "currency": "USD",
-            "event": "Unemployment Claims",
-            "impact": "Medium"
-        },
-        {
-            "date": "Wed Nov 25",
-            "time": "6:30am",
-            "currency": "USD",
             "event": "Core Durable Goods Orders m/m",
             "impact": "Low"
         },
@@ -343,6 +329,13 @@
             "time": "6:30am",
             "currency": "USD",
             "event": "Personal Spending m/m",
+            "impact": "Low"
+        },
+        {
+            "date": "Wed Nov 25",
+            "time": "6:30am",
+            "currency": "USD",
+            "event": "Unemployment Claims",
             "impact": "Low"
         },
         {
