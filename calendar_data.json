@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-11-25 06:58:17 JST",
+    "updated_at": "2026-11-25 16:17:52 JST",
     "source_timezone_note": "date/time fields are exactly as displayed on forexfactory.com at scrape time (site default: America/New York)",
     "events": [
         {
@@ -280,6 +280,13 @@
             "time": "Tentative",
             "currency": "EUR",
             "event": "German 10-y Bond Auction",
+            "impact": "Low"
+        },
+        {
+            "date": "Wed Nov 25",
+            "time": "6:25am",
+            "currency": "USD",
+            "event": "FOMC Member Bowman Speaks",
             "impact": "Low"
         },
         {
